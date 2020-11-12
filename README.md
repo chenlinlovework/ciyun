@@ -1,1 +1,2 @@
-# 调用echart的词云，引入txt即可快速生成
+# 
+用jieba分词，之后调用echart的词云api
